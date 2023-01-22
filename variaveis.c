@@ -4,7 +4,7 @@ int main()
     if (a  > b)
 
     {
-        printf("O núemro da variável a é maior que o número da variável b\n");
+        printf("O número da variável a é maior que o número da variável b\n");
     }
     
     system ("pause");
